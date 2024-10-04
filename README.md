@@ -11,8 +11,3 @@ python3 inference_cpu.py
 https://docs.ultralytics.com/modes/export/
 ```
 
-# You can see my training files using the following link:
-```
-https://drive.google.com/drive/folders/1mFYk5ZFrdDEn2Scp-o7UZ2KX0O4Unrag?usp=sharing
-```
-
